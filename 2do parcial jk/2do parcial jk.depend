@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1561505460 source:/home/alumno/Brizuela.Adrian/2do parcial jk/controller.c
+	<stdio_ext.h>
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"entregas.h"
+	"controller.h"
+	"informes.h"
+
+1561503630 /home/alumno/Brizuela.Adrian/2do parcial jk/parser.h
+	"LinkedList.h"
+
+1561504237 /home/alumno/Brizuela.Adrian/2do parcial jk/LinkedList.h
+
+1561504877 /home/alumno/Brizuela.Adrian/2do parcial jk/entregas.h
+
+1561505052 /home/alumno/Brizuela.Adrian/2do parcial jk/controller.h
+
+1561504877 source:/home/alumno/Brizuela.Adrian/2do parcial jk/main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"entregas.h"
+
+1561504116 source:/home/alumno/Brizuela.Adrian/2do parcial jk/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561508535 source:/home/alumno/Brizuela.Adrian/2do parcial jk/entregas.c
+	<stdio_ext.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"entregas.h"
+	"controller.h"
+	"utn.h"
+	"informes.h"
+
+1561505093 source:/home/alumno/Brizuela.Adrian/2do parcial jk/parser.c
+	<stdio_ext.h>
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"entregas.h"
+	"controller.h"
+
+1561502728 source:/home/alumno/Brizuela.Adrian/2do parcial jk/utn.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1561502727 /home/alumno/Brizuela.Adrian/2do parcial jk/utn.h
+
+1561508535 /home/alumno/Brizuela.Adrian/2do parcial jk/informes.h
+
+1561510244 source:/home/alumno/Brizuela.Adrian/2do parcial jk/informes.c
+	<stdio_ext.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"entregas.h"
+	"controller.h"
+
+1561662385 source:/home/adrian/Documentos/UTN/2do parcial jk/controller.c
+	<stdio_ext.h>
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"entregas.h"
+	"controller.h"
+	"informes.h"
+
+1561503630 /home/adrian/Documentos/UTN/2do parcial jk/parser.h
+	"LinkedList.h"
+
+1561659258 /home/adrian/Documentos/UTN/2do parcial jk/LinkedList.h
+
+1561661929 /home/adrian/Documentos/UTN/2do parcial jk/entregas.h
+
+1561601488 /home/adrian/Documentos/UTN/2do parcial jk/controller.h
+
+1561662336 /home/adrian/Documentos/UTN/2do parcial jk/informes.h
+
+1561661968 source:/home/adrian/Documentos/UTN/2do parcial jk/entregas.c
+	<stdio_ext.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"entregas.h"
+	"controller.h"
+	"utn.h"
+	"informes.h"
+
+1561502727 /home/adrian/Documentos/UTN/2do parcial jk/utn.h
+
+1561659258 source:/home/adrian/Documentos/UTN/2do parcial jk/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561661929 source:/home/adrian/Documentos/UTN/2do parcial jk/main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"entregas.h"
+
+1561505093 source:/home/adrian/Documentos/UTN/2do parcial jk/parser.c
+	<stdio_ext.h>
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"entregas.h"
+	"controller.h"
+
+1561502728 source:/home/adrian/Documentos/UTN/2do parcial jk/utn.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1561662616 source:/home/adrian/Documentos/UTN/2do parcial jk/informes.c
+	<stdio_ext.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"entregas.h"
+	"controller.h"
+
